@@ -1,3 +1,9 @@
+## Sample report generated in this function
+
+<img src="report_example.png" width="50%">
+
+
+
 ## Usage example 
 
     from utils.gen_report import generate_report
