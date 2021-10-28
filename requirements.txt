@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pillow
+mpl_toolkits
+scipy
+pandas
+opencv-python
