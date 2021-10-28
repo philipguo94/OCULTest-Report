@@ -29,3 +29,6 @@
 ## Requirements
     # Described in requirements.txt. Can be installed by:  
     pip install -r requirements.txt
+
+## Copyright
+The copyright belongs to ACE Virtual Reality Ltd, Hong Kong, CHINA
