@@ -27,7 +27,7 @@
         generate_report('Stair Navigation - Night', 'Philip', 30, 43, 1, './x/x/x', './x/x/x', '2012-01-01')
 
 ## Requirements
-    # Described in requirements.txt. Can be installed by:  
+Described in requirements.txt. Can be installed by:  
     pip install -r requirements.txt
 
 ## Copyright
