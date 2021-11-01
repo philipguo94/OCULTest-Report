@@ -8,18 +8,18 @@
 
 
 
-Input:
-    test_type (string): 'Supermarket' or 'City Navigation - Night' or 'City Navigation - Day'
-    ID (string): patient_id  'HKE001'
-    age (int): '20'
-    duration (float): '30.2'
-    wrong_num (int): the wrong select choice or hit time 
-    path (string): the full path of the folder to save reports 
-    txt_file_name(string): the name of the target txt or csv file generated from Unity demo
-    date_time (string or date type): the test date '2012-01-01'
-
-Return:
-    no returns, but generate reports into target folder
+Input:  
+    test_type (string): 'Supermarket' or 'City Navigation - Night' or 'City Navigation - Day'  
+    ID (string): patient_id  'HKE001'. 
+    age (int): '20'  
+    duration (float): '30.2'  
+    wrong_num (int): the wrong select choice or hit time  
+    path (string): the full path of the folder to save reports  
+    txt_file_name(string): the name of the target txt or csv file generated from Unity demo  
+    date_time (string or date type): the test date '2012-01-01'  
+  
+Return:  
+    no returns, but generate reports into target folder  
 
     from utils.gen_report import generate_report
 
