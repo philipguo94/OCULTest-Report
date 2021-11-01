@@ -8,7 +8,7 @@
 
 
 
-Input:  
+### Input:  
     test_type (string): 'Supermarket' or 'City Navigation - Night' or 'City Navigation - Day'  
     ID (string): patient_id  'HKE001'. 
     age (int): '20'  
@@ -18,7 +18,7 @@ Input:
     txt_file_name(string): the name of the target txt or csv file generated from Unity demo  
     date_time (string or date type): the test date '2012-01-01'  
   
-Return:  
+### Return:  
     no returns, but generate reports into target folder  
 
     from utils.gen_report import generate_report
